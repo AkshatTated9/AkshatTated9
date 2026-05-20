@@ -31,7 +31,6 @@
 const akshat = {
   role      : "Backend Developer",
   location  : "Bengaluru, Karnataka 🇮🇳",
-  experience: "1+ year in production-grade backend systems",
   askMeAbout: ["NestJS", "Node.js", "MongoDB", "Redis", "System Design"],
   portfolio : "https://akshattated.netlify.app/",
 };
